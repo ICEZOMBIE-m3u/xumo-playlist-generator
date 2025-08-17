@@ -1,3 +1,5 @@
+First off I would like to send out a thanks to those who wrote the original scripts.
+
 > [!WARNING]
 > DISCLAIMER: The scripts and links provided on this GitHub page are for informational and educational purposes only. I do not claim responsibility for any issues, damages, or losses that may arise from the use of these scripts or links. Users are advised to use them at their own risk and discretion. Always review and test any code or links before implementing them in your projects.
 
@@ -7,7 +9,7 @@ All streams are from a FREE publicly available source no DRM content. No login r
 
 This repository automatically generates an M3U playlist and XMLTV EPG file for Xumo TV channels available in the US.
 
-- M3U: https://raw.githubusercontent.com/BuddyChewChew/xumo-playlist-generator/refs/heads/main/playlists/xumo_playlist.m3u
+- M3U: https://raw.githubusercontent.com/ICEZOMBIE-m3u/xumo-playlist-generator/refs/heads/main/playlists/xumo_playlist.m3u
 
 
 ![Screenshot](https://github.com/BuddyChewChew/xumo-playlist-generator/blob/main/Screenshot%202025-04-16%20202330.jpg?raw=true)
